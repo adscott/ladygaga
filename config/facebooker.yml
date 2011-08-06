@@ -1,0 +1,9 @@
+production:
+  app_id: 157583304315954
+  secret: a31166fb0f33852a27534a7a1d5dfb9c
+  api_key: 157583304315954
+  
+development:
+  app_id: 157583304315954
+  secret: a31166fb0f33852a27534a7a1d5dfb9c
+  api_key: 157583304315954
