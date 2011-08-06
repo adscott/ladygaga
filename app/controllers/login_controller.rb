@@ -1,4 +1,5 @@
 class LoginController < ApplicationController
   def index
-  end
+    current_facebook_user.fetch
+  end 
 end

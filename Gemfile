@@ -6,3 +6,7 @@ gem 'sqlite3'
 gem 'rake'
 gem 'facebooker2'
 gem 'json'
+
+group :development, :test do
+  gem 'ruby-debug'
+end
